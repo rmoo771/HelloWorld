@@ -1,0 +1,12 @@
+C:\Users\Owner\Desktop\Test\HelloWorld\HelloWorld.Tests\obj\Debug\HelloWorld.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Test\HelloWorld\HelloWorld.Tests\bin\Debug\HelloWorld.Tests.dll
+C:\Users\Owner\Desktop\Test\HelloWorld\HelloWorld.Tests\bin\Debug\HelloWorld.Tests.pdb
+C:\Users\Owner\Desktop\Test\HelloWorld\HelloWorld.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Owner\Desktop\Test\HelloWorld\HelloWorld.Tests\bin\Debug\HelloWorld.exe
+C:\Users\Owner\Desktop\Test\HelloWorld\HelloWorld.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owner\Desktop\Test\HelloWorld\HelloWorld.Tests\bin\Debug\Moq.dll
+C:\Users\Owner\Desktop\Test\HelloWorld\HelloWorld.Tests\bin\Debug\HelloWorld.pdb
+C:\Users\Owner\Desktop\Test\HelloWorld\HelloWorld.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Owner\Desktop\Test\HelloWorld\HelloWorld.Tests\bin\Debug\Moq.xml
+C:\Users\Owner\Desktop\Test\HelloWorld\HelloWorld.Tests\obj\Debug\HelloWorld.Tests.dll
+C:\Users\Owner\Desktop\Test\HelloWorld\HelloWorld.Tests\obj\Debug\HelloWorld.Tests.pdb
